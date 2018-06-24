@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/atyuji1024/TypeScriptStudy/issues"
   },
-  "homepage": "https://github.com/atyuji1024/TypeScriptStudy#readme"
+  "homepage": "https://github.com/atyuji1024/TypeScriptStudy#readme",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
 }
