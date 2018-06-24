@@ -1,3 +1,5 @@
 "use strict";
-var message = "Helloooo!";
+var message = "Hellooooo!";
+var str = '';
 console.info(message);
+//# sourceMappingURL=app.js.map
