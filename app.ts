@@ -1,2 +1,2 @@
-let message = "Helloooo!";
+let message = "Hellooooo!";
 console.info(message);
